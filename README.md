@@ -126,61 +126,17 @@ streamlit run app.py
 <img width="1901" height="911" alt="image" src="https://github.com/user-attachments/assets/3b4f74d5-be7d-4884-b8e5-3f41537c54cd" />
 
 
-## 📸 Dashboard Preview
+### 📈 Dashboard
+<img width="1871" height="896" alt="image" src="https://github.com/user-attachments/assets/778f08fd-31bb-4235-8966-3c68a497fbdd" /><img width="1837" height="870" alt="image" src="https://github.com/user-attachments/assets/af7a3424-5c65-4701-8aa8-47ccf0bc0e93" />
+<img width="1880" height="860" alt="image" src="https://github.com/user-attachments/assets/89bc23b9-c3b9-41b7-acf2-8c0d86d765a7" />
+<img width="1882" height="882" alt="image" src="https://github.com/user-attachments/assets/f383f4f7-bdb3-42ee-8c40-eb575e4d08b9" />
+<img width="1890" height="882" alt="image" src="https://github.com/user-attachments/assets/15cd460e-1dc8-4c96-8f28-fc35ae25411a" />
+<img width="1892" height="832" alt="image" src="https://github.com/user-attachments/assets/1059f82b-c8be-499e-a643-6539b072aa0b" />
+<img width="1891" height="861" alt="image" src="https://github.com/user-attachments/assets/5e21dacd-35a1-4927-a3f3-582c8a5eb109" />
+<img width="1886" height="890" alt="image" src="https://github.com/user-attachments/assets/437e7300-a95f-4b75-9d21-17a437157da0" />
+<img width="1897" height="887" alt="image" src="https://github.com/user-attachments/assets/3ee6f533-d498-40fb-bd79-31c0276a8568" />
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/778f08fd-31bb-4235-8966-3c68a497fbdd" width="100%">
-<br><b>Dashboard</b>
-</td>
 
-<td align="center">
-<img src="https://github.com/user-attachments/assets/af7a3424-5c65-4701-8aa8-47ccf0bc0e93" width="100%">
-<br><b>Analytics</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/89bc23b9-c3b9-41b7-acf2-8c0d86d765a7" width="100%">
-<br><b>Machine Health</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/f383f4f7-bdb3-42ee-8c40-eb575e4d08b9" width="100%">
-<br><b>Alarm Panel</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://github.com/user-attachments/assets/15cd460e-1dc8-4c96-8f28-fc35ae25411a" width="100%">
-<br><b>System Health</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/1059f82b-c8be-499e-a643-6539b072aa0b" width="100%">
-<br><b>Recommendations</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/5e21dacd-35a1-4927-a3f3-582c8a5eb109" width="100%">
-<br><b>Activity Feed</b>
-</td>
-
-<td align="center">
-<img src="https://github.com/user-attachments/assets/437e7300-a95f-4b75-9d21-17a437157da0" width="100%">
-<br><b>Settings</b>
-</td>
-</tr>
-
-<tr>
-<td colspan="4" align="center">
-<img src="https://github.com/user-attachments/assets/3ee6f533-d498-40fb-bd79-31c0276a8568" width="70%">
-<br><b>Responsive Dashboard</b>
-</td>
-</tr>
-
-</table>
 
 
 
